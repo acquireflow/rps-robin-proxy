@@ -1,6 +1,0 @@
-{
-  "name": "rps-robin-proxy",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Secure API proxy for Robin — Robinhood Property Solutions AI assistant"
-}
